@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de JS com TDD, ofertado por William Justen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaop9425/js-tdd.git"
+  },
+  "author": "João Paulo Neves <joao.p9425[at]gmail[dot]com> (https://maisumrepositorio.eti.br/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaop9425/js-tdd/issues"
+  },
+  "homepage": "https://github.com/joaop9425/js-tdd#readme"
+}
